@@ -3,3 +3,8 @@ st-gsheets-connection
 pandas
 plotly
 fpdf2
+streamlit
+st-gsheets-connection
+pandas
+plotly
+fpdf2
