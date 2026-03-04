@@ -1,5 +1,5 @@
 import streamlit as st
-from st_gsheets_connection import GSheetsConnection
+from st_gsheets_connection. import GSheetsConnection
 import pandas as pd
 import plotly.express as px
 from fpdf import FPDF
